@@ -10,7 +10,7 @@
 <p align="center">
 <!--     <a href="https://leetcode.com/ritikpatel17/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-200.gif" alt="jyot" height="200" width="200" /></a> -->
 <!--   <a href="https://leetcode.com/ritikpatel17/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" alt="jyot" height="200" width="200" /></a> -->
-    <a href="https://leetcode.com/ritikpatel17/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-200.gif" alt="200 question 2023" height="200" width="200" /></a>
+    <a href="https://leetcode.com/ritikpatel17/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="50 question 2023" height="200" width="200" /></a>
   <a href="https://leetcode.com/ritikpatel17/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" alt="100 question 2023" height="200" width="200" /></a>
 <a href="https://leetcode.com/ritikpatel17/" target="_blank">
   <img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-01.gif" alt="January 2023 Badge" height="200" width="200" />
